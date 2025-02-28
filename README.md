@@ -1,11 +1,43 @@
-<h1 align="center"> Amigo secreto </h1>
-![Diseño sin título (2)](https://github.com/user-attachments/assets/395919b5-7783-43b8-aeba-0131e719a62b)
-Este proyecto consiste en una aplicación web que permite a los usuarios ingresar nombres de amigos en una lista y luego realizar un sorteo aleatorio para determinar quién es el "amigo secreto".
-# Fucionalidades:
-Agregar nombres: Los usuarios escribirán el nombre de un amigo en un campo de texto y lo agregarán a una lista visible al hacer clic en "Adicionar".
+<h1 align="center">🎁 Amigo Secreto 🎁</h1>
 
-Validar entrada: Si el campo de texto está vacío, el programa mostrará una alerta pidiendo un nombre válido.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Guis-gk/challenge-amigo-secreto/main/logo_amigo_secreto.png" alt="Amigo secreto" width="300">
+</p>
 
-Visualizar la lista: Los nombres ingresados aparecerán en una lista debajo del campo de entrada.
+---
 
-Sorteo aleatorio: Al hacer clic en el botón "Sortear Amigo", se seleccionará aleatoriamente un nombre de la lista y se mostrará en la página.
+## ✨ Sobre el proyecto  
+Este proyecto es una aplicación web que permite a los usuarios **ingresar nombres de amigos** en una lista y luego **realizar un sorteo aleatorio** para determinar quién es el "amigo secreto". 🎉  
+
+---
+
+## 🚀 Funcionalidades  
+
+✅ **Agregar nombres**: Los usuarios pueden escribir el nombre de un amigo en un campo de texto y agregarlo a la lista con un clic en **"Adicionar"**.  
+
+✅ **Validar entrada**: Si el campo de texto está vacío, el programa mostrará una alerta pidiendo un nombre válido.  
+
+✅ **Visualizar la lista**: Los nombres ingresados aparecerán en una lista debajo del campo de entrada.  
+
+✅ **Sorteo aleatorio**: Al hacer clic en el botón **"Sortear Amigo"**, se seleccionará aleatoriamente un nombre de la lista y se mostrará en pantalla. 🎲  
+
+---
+
+## 📷 Vista previa  
+🔹 *Captura de pantalla de la app aquí (si tienes alguna imagen, súbela y agrégala como hicimos con el logo).*  
+
+---
+
+## 🛠️ Tecnologías utilizadas  
+💻 **Frontend:** HTML, CSS, JavaScript  
+
+🚀 **Deployment:** https://guis-gk.github.io/challenge-amigo-secreto/
+
+---
+
+## 📌 Cómo ejecutar el proyecto  
+
+1️⃣ Clona este repositorio:  
+```bash
+git clone https://github.com/Guis-gk/challenge-amigo-secreto.git
+
