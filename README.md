@@ -1,4 +1,4 @@
-# Challenge Amigo secreto
+<h1 align="center"> Su título aquí </h1>
 Este proyecto consiste en una aplicación web que permite a los usuarios ingresar nombres de amigos en una lista y luego realizar un sorteo aleatorio para determinar quién es el "amigo secreto".
 # Uso
 Fucionalidades:
