@@ -27,7 +27,7 @@ Este proyecto es una aplicación web que permite a los usuarios **ingresar nombr
 Así se ve la aplicación en acción:  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Guis-gk/challenge-amigo-secreto/refs/heads/main/assets/logo_amigo_secreto.png" alt="Vista previa de la aplicación" width="600">
+  <img src="https://github.com/Guis-gk/challenge-amigo-secreto/blob/main/assets/captura_de_pantalla_amigo_secreto.png?raw=true" alt="Vista previa de la aplicación" width="600">
 </p>
 
 ---
