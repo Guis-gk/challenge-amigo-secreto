@@ -1,7 +1,7 @@
 <h1 align="center">🎁 Amigo Secreto 🎁</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Guis-gk/challenge-amigo-secreto/main/logo_amigo_secreto.png" alt="Amigo secreto" width="300">
+  <img src="https://raw.githubusercontent.com/Guis-gk/challenge-amigo-secreto/refs/heads/main/assets/logo_amigo_secreto.png" alt="Amigo secreto" width="300">
 </p>
 
 ---
