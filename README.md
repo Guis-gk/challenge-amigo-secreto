@@ -1,7 +1,7 @@
-<h1 align="center"> Su título aquí </h1>
+<h1 align="center"> Amigo secreto </h1>
+![Diseño sin título (2)](https://github.com/user-attachments/assets/395919b5-7783-43b8-aeba-0131e719a62b)
 Este proyecto consiste en una aplicación web que permite a los usuarios ingresar nombres de amigos en una lista y luego realizar un sorteo aleatorio para determinar quién es el "amigo secreto".
-# Uso
-Fucionalidades:
+# Fucionalidades:
 Agregar nombres: Los usuarios escribirán el nombre de un amigo en un campo de texto y lo agregarán a una lista visible al hacer clic en "Adicionar".
 
 Validar entrada: Si el campo de texto está vacío, el programa mostrará una alerta pidiendo un nombre válido.
