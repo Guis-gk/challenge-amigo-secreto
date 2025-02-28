@@ -24,7 +24,11 @@ Este proyecto es una aplicación web que permite a los usuarios **ingresar nombr
 ---
 
 ## 📷 Vista previa  
-🔹 *Captura de pantalla de la app aquí (si tienes alguna imagen, súbela y agrégala como hicimos con el logo).*  
+Así se ve la aplicación en acción:  
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Guis-gk/challenge-amigo-secreto/refs/heads/main/assets/logo_amigo_secreto.png" alt="Vista previa de la aplicación" width="600">
+</p>
 
 ---
 
